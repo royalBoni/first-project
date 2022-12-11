@@ -6,3 +6,6 @@ we will be adding more functionalities with time
 
 # topic
 we will leave tomoro
+
+# local development
+open index.html in your browser
